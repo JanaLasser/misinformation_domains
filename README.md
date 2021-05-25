@@ -1,6 +1,6 @@
 # A collection of domains that spread unreliable information
 
-**Author: Jana Lasser, Graz University of Technology (jana.lasser@tugraz.at)**
+**Author: Jana Lasser, Graz University of Technology (jana.lasser@tugraz.at)**  
 **Contact:** If you are aware of additional lists that are not part of this collection yet, especially in other languages than English, please let me know. If you have questions regarding individual domains, please contact the authors of the list that includes that domain.
 
 ## A word of caution
