@@ -8,7 +8,7 @@ The final version of the cleaned and de-duplicated list depends on somewhat arbi
 Also: since many of these sources have not been updated in quite a while, a large share of the domains in this list do not exist anymore. A quick spot-check of domains on May 24th 2021, checking which domains were mentioned in Tweets in the time span between April 24th and May 24th 2021 at least 10 times revealed that only about 30% of the domains classified as "disinformation" in the list were active at this point in time. 
 
 ## Sources
-The collection is based on a list initially compiled by [Galotti et al. 2020](https://www.nature.com/articles/s41562-020-00994-6#Sec4) and was since expanded with updated versions of the initial domain collections and extended by additional curated lists. A cleaned and de-duplicated list ist stored under ```data/clean```.
+The collection started on a list of sources referenced by [Galotti et al. 2020](https://www.nature.com/articles/s41562-020-00994-6#Sec4) and was since expanded with updated versions of the initial domain collections and extended by additional curated lists. A cleaned and de-duplicated list ist stored under ```data/clean```.
 
 The lists that are ingested and combined into a larger list below stem from several sources. Some of them fact-checking collectives, some of them individual scholars or journalists that collected and curated lists of domains that spread unreliable information. Snapshots of the lists that were taken on May 18th 2021 are stored under ```data/raw```. The table below lists the individual collections included in this meta-list:
 
