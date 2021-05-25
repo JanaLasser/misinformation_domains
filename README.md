@@ -1,6 +1,7 @@
 # A collection of domains that spread unreliable information
 
 **Author: Jana Lasser, Graz University of Technology (jana.lasser@tugraz.at)**
+**Contact:** If you are aware of additional lists that are not part of this collection yet, especially in other languages than English, please let me know. If you have questions regarding individual domains, please contact the authors of the list that includes that domain.
 
 ## A word of caution
 The final version of the cleaned and de-duplicated list depends on somewhat arbitrary decisions on what to classify as "harmful" content. The cleaning and de-duplication process is performed in the script ```clean_misinformation_domains.ipynb```. Before using or building on this list, please have a look at the cleaning and de-duplication process and evaluate, if it fits your definition of "disinformation", "misinformation" or "fake news" and adapt accordingly!  
