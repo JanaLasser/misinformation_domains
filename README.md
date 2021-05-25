@@ -29,3 +29,6 @@ Snopes’ field guide to fake news sites | | https://www.snopes.com/news/2016/01
 FakeNewsCodes | | http://www.fakenewscodex.com/ | see below | 2018-12-05 | one of the sources of the CJR list | see below |
 FactCheck.org | | https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/ | see below | 2018-11-02 | one of the sources of the CJR list | see below |
 Columbia Journalism review | https://www.cjr.org/fake-beta | https://www.cjr.org/fake-beta and more detailed data at https://docs.google.com/spreadsheets/d/1ck1_FZC-97uDLIlvRJDTrGqBk0FuDe9yHkluROgpGS8/edit#gid=2037798083 | yes | 2021-04 | Up-to-date compilation of lists from FactCheck.org, FakeNewsCodex, OpenSources, PolitiFact and Snopes. Entries with more than one label were expanded into several rows | none specified |
+
+## Usage & license
+This compilation is a collection of a number of smaller lists. Only Melissa Zimdar's list explicitely states a license and usage requirements, all other lists do not. The source table above lists license availability for each of the sources individually as well. As I (Jana Lasser) am not the owner of these lists, I cannot give them licenses. As far as my own work in compiling and cleaning these lists is concerned, I waive copyright and assign a [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) license.
