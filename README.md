@@ -12,7 +12,7 @@ The collection started on a list of sources referenced by [Galotti et al. 2020](
 
 The lists that are ingested and combined into a larger list below stem from several sources. Some of them fact-checking collectives, some of them individual scholars or journalists that collected and curated lists of domains that spread unreliable information. Snapshots of the lists that were taken on May 18th 2021 are stored under ```data/raw```. The table below lists the individual collections included in this meta-list:
 
-| Author | Article | List source | Included | Lat update | Note | License |
+| Author | Article | List source | Included | Last update | Note | License |
 | ------ | ------- | ----------- | -------- | ---------- | ---- | ------- |
 | Melissa Zimdars | https://www.washingtonpost.com/posteverything/wp/2016/11/18/my-fake-news-list-went-viral-but-made-up-stories-are-only-part-of-the-problem/ | https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/preview | yes | 2016 | It is a bit unclear when this list was last updated | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 Buzzfeed | https://www.buzzfeednews.com/article/craigsilverman/inside-the-partisan-fight-for-your-news-feed | https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages/tree/master/data | yes | 2018-08-08 | | none specified |
