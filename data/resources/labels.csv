@@ -1,0 +1,59 @@
+label,accuracy,transparency
+false satire,1,1
+medical and scientific disinformation,1,1
+political disinformation,1,1
+religious and racial disinformation,1,1
+scandal hoax,1,1
+political and racial hoax,1,1
+clickbait,2,2
+websites of conspiracy theorists and hoax spreaders,1,1
+social media sites of conspiracy theorists and hoax spreaders,1,1
+misleading,2,1
+satire,1,2
+fake news,1,1
+close to Qanon,1,1
+pseudoscience,1,1
+pseudojournalism and politics,1,1
+pseudojournalism blogs,1,1
+pseudoscience blogs,1,1
+pseudomedicine,1,1
+conspiracy,1,1
+conspiracy blogs,1,1
+left bias,3,2
+right bias,3,2
+bias,3,2
+unreliable,2,1
+fake,1,1
+conspiracy,1,1
+satire,1,2
+clickbait,2,2
+fake/hoax,1,1
+satire,1,2
+clickbait,2,2
+fake news,1,1
+questionable sources,1,1
+conspiracy/pseudoscience,1,1
+right bias,3,2
+center right bias,4,3
+left center bias,4,3
+left bias,3,2
+least biased,5,3
+satire,1,2
+pro science,5,3
+Imposter site,1,1
+Fake news,1,1
+Parody site,1,2
+Some fake stories,2,1
+bias,3,2
+fake,1,1
+conspiracy,1,1
+unreliable,2,1
+satire,1,2
+hate,,
+clickbait,2,2
+political,3,2
+junksci,1,1
+rumor,2,2
+unknown,,
+reliable,5,3
+state,3,2
