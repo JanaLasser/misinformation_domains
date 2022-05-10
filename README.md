@@ -3,6 +3,9 @@
 **Authors: Jana Lasser, Graz University of Technology (jana.lasser@tugraz.at), Valentin Rupp**  
 **Contact:** If you are aware of additional lists that are not part of this collection yet, especially in other languages than English, please let us know. If you have questions regarding individual domains, please contact the authors of the list that includes that domain.
 
+## Usage & license
+This compilation is a collection of a number of smaller lists. Only Melissa Zimdar's list explicitely states a license and usage requirements, all other lists do not. The source table above lists license availability for each of the sources individually as well. As we are not the owners of these lists, we cannot give them licenses. As far as our own work in compiling and cleaning these lists is concerned, we assign a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.
+
 ## Sources
 The collection started with a list of sources referenced by [Galotti et al. 2020](https://www.nature.com/articles/s41562-020-00994-6#Sec4) and was since expanded with updated versions of the initial domain collections and extended by additional curated lists. A cleaned and de-duplicated list ist stored under ```data/clean```.
 
@@ -128,6 +131,3 @@ audience by using appeal to emotion or stereotypes), publish misleading reports 
 | Fake news | There’s little consistency of content or style among fake news sites – the common thread appears to be that they distribute fabricated content, but the reasons aren’t always apparent. | 1 | 1 |  
 | Parody site | It can be difficult to parse what the aims of these parody sites may be. They could be writing stories purely for entertainment, or they may be trolling a particular set of voters. These websites may or may not make it clear on individual links that their stories are fake, but will almost always say in a disclaimer somewhere on their site that their content is exaggerated or fictional. | 1 | 2 |  
 | Some fake stories | We have checked statements from sites that appear to carry real content, but contained one or more fake news stories. We don’t know whether this is intentional or accidental, but it happens. | 2 | 1 |  
-
-## Usage & license
-This compilation is a collection of a number of smaller lists. Only Melissa Zimdar's list explicitely states a license and usage requirements, all other lists do not. The source table above lists license availability for each of the sources individually as well. As we are not the owners of these lists, we cannot give them licenses. As far as our own work in compiling and cleaning these lists is concerned, we assign a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.
