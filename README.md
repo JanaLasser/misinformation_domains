@@ -14,20 +14,22 @@ The lists that are ingested and combined into a larger list below stem from seve
 Buzzfeed | https://www.buzzfeednews.com/article/craigsilverman/inside-the-partisan-fight-for-your-news-feed | https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages/tree/master/data | yes | 2018-08-08 | | none specified |
 Fake news watch | https://web.archive.org/web/20180213181029/http://www.fakenewswatch.com/ | https://web.archive.org/web/20180213181029/http://www.fakenewswatch.com/ | yes | 2016-01-18 | | none specified |
 Politifact | https://www.politifact.com/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/ | https://e.infogr.am/politifacts_fake_news_almanac?parent_url=https%3A%2F%2Fwww.politifact.com%2Farticle%2F2017%2Fapr%2F20%2Fpolitifacts-guide-fake-news-websites-and-what-they%2F&src=embed# | yes | 2017-11-09 | | none specified |
-Fletcher et al. | https://reutersinstitute.politics.ox.ac.uk/our-research/measuring-reach-fake-news-and-online-disinformation-europe | Is a compilation of individual smaller lists (Butac, Bufale, Bufalopedia and Décodex) in itself | see below | see below | several smaller lists, mainly focused on Italian and French misinformation spreading domains | see below |
+Fletcher et al. | https://reutersinstitute.politics.ox.ac.uk/our-research/measuring-reach-fake-news-and-online-disinformation-europe | Is a compilation of individual smaller lists (Butac, Bufale, Bufalopedia and Décodex) in itself | no | unknown | several smaller lists, mainly focused on Italian and French misinformation spreading domains | see below |
 Butac | https://reutersinstitute.politics.ox.ac.uk/our-research/measuring-reach-fake-news-and-online-disinformation-europ | https://www.butac.it/the-black-list/ | yes | 2021-05-18 | Mostly italian sites, domain names cleaned and expanded manually, facebook pages excluded | none specified |
 Bufale | https://reutersinstitute.politics.ox.ac.uk/our-research/measuring-reach-fake-news-and-online-disinformation-europ | https://www.bufale.net/the-black-list-la-lista-nera-del-web/ | yes | 2018 | labels translated to English by italian native speaker | none specified |
 Bufalopedia | https://reutersinstitute.politics.ox.ac.uk/our-research/measuring-reach-fake-news-and-online-disinformation-europ | https://bufalopedia.blogspot.com/p/siti-creatori-di-bufale.html | yes | 2020-05-05 | Mostly Italian sites, some international, changed label of “the onion” from fake news to satire. “Fake news” label reflects international sites | none specified |
 Décodex | https://reutersinstitute.politics.ox.ac.uk/our-research/measuring-reach-fake-news-and-online-disinformation-europ | https://www.lemonde.fr/verification/ | no | unknown | French fact checking service from le Monde, no access established yet | |
 Girnberg et al. | https://science.sciencemag.org/content/363/6425/374.abstract | https://github.com/LazerLab/twitter-fake-news-replication/blob/master/domains/domain_coding/data/black_sites.txt | yes | 2019-01-28 | | none specified |
 Media bias fact check | https://mediabiasfactcheck.com/ | Various sub-sites with link lists | yes | 2021-05-21 | domains are labelled by the sub-site they appear on | none specified |
-Snopes’ field guide to fake news sites | | https://www.snopes.com/news/2016/01/14/fake-news-sites/ | see below | 2016-01-14 | one of the sources of the CJR list | see below |
-FakeNewsCodes | | http://www.fakenewscodex.com/ | see below | 2018-12-05 | one of the sources of the CJR list | see below |
-FactCheck.org | | https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/ | see below | 2018-11-02 | one of the sources of the CJR list | see below |
+Snopes’ field guide to fake news sites | | https://www.snopes.com/news/2016/01/14/fake-news-sites/ | see below | 2016-01-14 | one of the sources of the CJR list | no |
+FakeNewsCodes | | http://www.fakenewscodex.com/ | see below | 2018-12-05 | one of the sources of the CJR list | no |
+FactCheck.org | | https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/ | see below | 2018-11-02 | one of the sources of the CJR list | no |
 Columbia Journalism review | https://www.cjr.org/fake-beta | https://www.cjr.org/fake-beta and more detailed data at https://docs.google.com/spreadsheets/d/1ck1_FZC-97uDLIlvRJDTrGqBk0FuDe9yHkluROgpGS8/edit#gid=2037798083 | yes | 2021-04 | Up-to-date compilation of lists from FactCheck.org, FakeNewsCodex, OpenSources, PolitiFact and Snopes. Entries with more than one label were expanded into several rows | none specified |
 
 ## Unification of labels
-Below we provide tables listing the mapping of the individual site's labels and label descriptions to an accuracy (A) and transparency (T) scale. The mappings are also available in the file `data/resources/labels.csv`.
+Below we provide tables listing the mapping of the individual site's labels and label descriptions to an accuracy (A) and transparency (T) scale. The mappings are also available in the file `data/resources/labels.csv`.  
+
+Sites with an accuracy score of 1 or 2 and/or a transparency score of 1 are additionally labelled as "unreliable".
 
 ### Bufalopedia
 | Label | Description | A | T |
